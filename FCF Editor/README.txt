@@ -9,4 +9,4 @@ Features:
 
 Credits:
 * Idea: JackTheInfinite
-* Researcher: ニサンカタンソ
+* Researcher: 繝九し繝ｳ繧ｫ繧ｿ繝ｳ繧ｽ
