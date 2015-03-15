@@ -1,0 +1,14 @@
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\FCF Editor.exe.config
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\FCF Editor.exe
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\FCF Editor.pdb
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF_Editor.MainForm.resources
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF_Editor.Options.resources
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF_Editor.Properties.Resources.resources
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF Editor.csproj.GenerateResource.Cache
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF Editor.exe
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF Editor.pdb
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF_Editor.AboutBox.resources
+D:\kirikiri2_232r2EN\FCF editor\FCF Editor\FCF Editor\obj\Debug\FCF_Editor.CollapsiblePanel.resources

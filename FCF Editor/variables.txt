@@ -1,0 +1,40 @@
+﻿==>FSN
+セイバー好感度|Saber's Point
+桜好感度|Sakura's Point
+凛好感度|Rin's Point
+イリヤ好感度|Illya's Point
+道場説明|Dojo Explained?
+gセイバークリア|Saber Route Cleared?
+g桜クリア|Sakura Route Cleared?
+g桜トゥルー|Got 'Sakura True' ending?
+g桜ノーマル|Got 'Sakura Normal' ending?
+g凛クリア|Rin Route Cleared?
+桜ルート分岐|Sakura's Route Points
+士郎の痣|Shirou's Bruise
+ソロ|Working Solo?
+質問１|Question 1 asked from Saber?
+質問２|Question 2 asked from Saber?
+質問３|Question 3 asked from Saber?
+自然治癒を知らない|No Self-Healing
+不勇の罪|Coward
+セイバー不在|Saber Gone?
+イリヤとの会話|Illya Conversation
+イリヤ、衛宮邸体験した|Illya Visited Emiya Household?
+ギアス|Geass
+不断の咎|Blame Persistence
+限界破裂|Limit Burst
+ghentai|H-scenes
+
+==>FHA
+カレン１|Caren I
+カレン２|Caren II
+カレン３|Caren III
+カレン４|Caren IV
+カレン５|Caren V
+夜の聖杯戦争６|Holy Grail War -> Night 6
+双子館の殺人|Murder-related?
+最後の守護者|Last guardian
+天の杯|Heaven's cup
+天の逆月|Heaven of Gyakutsuki(?)
+ロンドンの土産話|Souvenir story of London
+風雲イリヤ城|Storm Illya Castle!

@@ -1,0 +1,139 @@
+<====V1.5(14/03/2015)====> *PUBLIC(STABLE)*
++ Added a Changelog window in the About window! It auto-reads data, stored in Changelog.txt(this file) and creates a collapsible panel for each version!
++ Added FSN and some of FHA variables data internally, if the variables.txt file isn't specified or missing...
++ Re-designed the About screen again!
++ Disallowed exiting when you've made some changes in the flowchart... Finally, a good feature!
++ Ctrl+Shift+S can be used to 'Save As' flowchart data!
++ Default comment, "COMMENT!", is used when saving, instead of leaving blank lines!
++ Disallowed entry of ':' and '//' for SELECTERs' alternative text in FHA format, since FHA uses ':' for flag-operations for SELECTERs...
++ Added the ability to change flag names for SCENEs' jumps and flag operations by typing, as well as selecting from the list... This means NO LIMITATIONS! Do it whatever way you wish! But, remember that '(' is used to differentiate between the flag name and remark!
++ Now, you can't just back out of updating! Press 'Update' button to do other things!
++ If you don't want to update, then there's another option: 'RESET!' button to reset the data...
+- A lot of funny bugs are crushed now!
+~ Two releases on a single day! That's an improvement!
+
+<====V1.4(14/03/2015)====> *PUBLIC(STABLE)*
++ Now supports FHA .fcf files too!
++ Added some more tooltips!
++ Added the ability to resize the text log on right side!
++ Added a 'Save' and a 'Save As' feature!
++ Improved the UI!
++ Added a 'Remove' button, along with 'Delete' keycode, to remove flow elements!
++ Now, Ctrl+R also refreshes the flowchart!
++ Saving automatically re-loads the file too!
+- Fixed a positioning bug, when moving and saving flow elements!
+- Fixed many bugs when adding new flow elements!
+
+<====V1.2.2(11/03/2015)====> *PUBLIC(STABLE)*
++ Confirm dialog box is displayed now when deleting the flow elements!
++ Dragging now updates ONLY the position fields in the text box on the right!
+~ KNOWN BUG: Even if the 'Update' button isn't pressed, the flow element data is changed... Need a way to inherit from a class object...
+~ KNOWN BUG: If the window has to be scrolled to view the flow elements, then their positioning isn't correct... Needs a way to check the flow element's actual position, not the relative position...
+
+<====V1.2(05/03/2015)====> *PUBLIC(STABLE)*
++ Using TextBox as Flow Elements, replacing Buttons!
++ Can open ALL dialog boxes again!
++ Can use TAB key to select between different flow elements(LIMITED and TESTING NOT COMPLETE)
++ Disabled entry of ':' or '//' in Flag-related boxes!
++ Added the functionality to select all the text in the log(right side)... Sorry for not noticing its absence earlier...
+
+<====V1.1(04/03/2015)====> *PRIVATE(STABLE)*
++ Added a proper installation method (InstallShield)!
++ Associated .fcf file extensions for this program.
++ Fixed the position of Labels, when saving.
++ Added the ability to change the ID and Type of Flow Elements. (<- Forgot about this one)
++ Fixed some bugs, when changing the colour and font of the flow elements and arrows.
++ Added a custom Icon for uniqueness!
++ Re-designed the About screen.
++ Replaced the Flow Elements from Label to Buttons...
++ Had to replace MessageBox with a custom Form, because of the incompatibility with the newly-added buttons...
++ Added a DELETE feature... Just click the flow element and press 'DELETE' button!
+- Removed the animation from the About screen...
+- Removed bugs in SELECTER and SCENE!
+- Removed the progress bar, since it was mostly useless...
++ KNOWN BUG: After using buttons for flow elements, you can't open ANY dialog box... Why is that? No idea...
+
+<====V1.0(24/02/2015)====> *PUBLIC(STABLE)*
++ Improved arrows... Now, they curve a bit and are smoother!
++ Properly implemented dragging feature... Now, there's a limit to where you can move!
++ FINALLY fixed the positioning system.
++ Now, you can drag one file at a time to the window to read that file!
++ Now, you can customize the colour and font of the flow elements and arrows!
++ Re-structured and cleaned the code...
++ Animated the About screen... Just a subtle fade-in effect...
++ Allowed only the entry of numbers in textboxes, which should contain numbers, like ID, X and Y...
++ Added some funny warnings and error statements, using MessageBox...
+- Disallowed the entry of '(single quote) in the title box, since it's used by the engine to split the lines...
+- Fixed a LOT of crazy bugs and leaks...
++ KNOWN BUG: When selecting any SELECTER (with more than one alternative), it replaces the Choice text for the first alternative with the Choice text for the last alternative.
++ KNOWN BUG: When selecting any SCENE (with more than one Flag Check or Operation), it replaces the operation/check value for the first tab with the same of the last tab.
++ KNOWN BUG: Colour and font of the flow elements and arrows doesn't change when you left-click on it (No problem when right-clicking it).
+
+<====V0.9(23/02/2015)====> *PUBLIC(BETA)*
++ Added arrows (TRUE variant with arrowheads)
++ Added save feature in UNICODE encoding!
++ Added hotkeys for opening (Ctrl+O) and saving (Ctrl+S)
++ Added a placeholder progress bar (does nothing presently)
++ Edit feature refined
++ About screen updated to V0.9!
++ Improved the UI(in my opinion)
++ Must've added much more, which I surely have forgotten....
+- Fixed MANY bugs, ranging from grave positioning errors to crashing edit feature
+
+<====V0.8(15/02/2015)====> *PUBLIC(BETA)*
++ Added SCENEs (90%) <- It was completely done, but I realised that in Flag Checks, Link Type isn't used, so you can't jump to a scene, depending on more than one flags...
++ Added SELECTERs (100%)
++ Added OUTERLABELs (100%)
++ Added a feature to browse to a folder containing all the .fcf files and set it as a root folder for future operations (currently used in OUTERLABELs only...)(90%)
++ Added lines to connect labels in the flowchart (75%)
+- Fixed MANY annoying bugs (No set limit)
+
+<====V0.7(13/02/2015)====> *PUBLIC(ALPHA)*
++ Incorporated Flag Operations and Flag Check for SCENEs... NOT TESTED!
++ Released another build WITH all the required Application Data! (HOORAY!)
+
+<====V0.6(11/02/2015)====> *PUBLIC(ALPHA)*
++ Revised the variables.txt.
++ Added the original About screen...
++ Released the first ever public build with ClickOnce setup...
+~ Forgot to add the Application Data... (Damn my carelessness!)
+
+<====V0.5(28/01/2015)====> *PRIVATE*
++ Fixed the positioning system... Works well only with the ニサンカタンソ's modified version of Saber's route First day... For other .fcf files, it's better not to ask...
++ Added a ComboBox for Flow type!
++ Incorporated the option to add variables.txt for flag-related operations...
++ Added a 'Options' menu item...
+
+<====V0.4(27/01/2015)====> *PRIVATE*
+- Removed the feature to move boxes, since adding limits was becoming a huge pain...
++ Used List String to store data... [<- I am a LAME programmer... :(]
++ Added the ability to click and show the properties of the label...
+~ Realized the increasing problem of positioning (FINALLY) and decided to talk with ニサンカタンソ!
+
+<====V0.3(DATE UNKNOWN)====> *PRIVATE*
++ Added the feature to move boxes...
+- Removed the feature to move boxes, since adding limits was becoming a huge pain...
+
+<====V0.2(DATE UNKNOWN)====> *PRIVATE*
+- Discontinued GroupBox...
++ Instead of GroupBox, added Split Container, with 2 Panels.
++ Planned and wrote the layout of Properties panel.
+
+<====V0.1(25/01/2015)====> *PRIVATE*
+- Discontinued WPF... yet again...
++ Switched to WinForm C#!
++ Began to use GroupBox to show elements...
++ Used String arrays to store data...(<- I know, a VERY bad idea...)
++ Got to show buggy boxes(totally bad positioning) and writing in the log on the right side!
+
+<====V0.1(24/01/2015)====> *PRIVATE*
+~ Realized that VB isn't meant for me!
+- Discontinued VB.
++ Switched to WPF C#!
++ Added a menu strip... With only one option: 'File'
++ Incorporated opening files.
+
+<====V0.1(23/01/2015)====> *PRIVATE*
++ Created the folder!
++ Began to work in WinForm VB...
+~ Did nothing much but trying to plan out the best way to go about this...
